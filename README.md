@@ -1,5 +1,5 @@
 # Hi there ! I'm Lucas Matheus! 👋.
-## I'm a Full Stack Developer and former CTO on Braint.
+## I'm a Full Stack Developer and CEO Firstday.
 
 ### I have experience with:
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
